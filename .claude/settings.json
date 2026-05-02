@@ -1,0 +1,26 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": ".*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '=== index.md ==='; cat /Users/alyx/note/index.md 2>/dev/null; echo ''; echo '=== log.md (last 30 lines) ==='; tail -n 30 /Users/alyx/note/log.md 2>/dev/null"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "matcher": ".*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '💡 本次会话有值得沉淀的内容吗？可用 /wiki-log（闪念）或 /ingest（拉新材料 fan-out）。'"
+          }
+        ]
+      }
+    ]
+  }
+}
