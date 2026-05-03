@@ -16,3 +16,13 @@
 ## [2026-05-02] ingest agent-engineer-quality — 把上述 log 心得 fan-out 成 3 个 concept 骨架（agent-engineer-quality / agent-toolchain-investment / agent-adversarial-quality-test）
 
 ## [2026-05-02] decision ingest-supports-log-input — /ingest 输入正式支持 log 心得引用（log:<date-or-slug>）；跳过 source 页创建直接 fan-out 到 entity/concept
+
+## [2026-05-03] log — 评审 AI 技术方案时强制要求补 Done when 完成标准：业务结果、技术结果、边界情况、测试验证、监控指标、回滚方式；说不清完成标准的方案，多半是在写技术作文
+
+## [2026-05-03] rename 2026-05-03-194746-article→hoard-things-you-know-how-to-do — 将 Simon Willison 文章剪藏 source 改为语义化 slug
+
+## [2026-05-03] distill hoard-things-you-know-how-to-do — 提炼 Simon Willison 关于囤积可运行方案并复用为 agent 输入资产的文章
+
+## [2026-05-03] rename 2026-05-03-200332-article→ai-should-help-us-produce-better-code — 将 Simon Willison 文章剪藏 source 改为语义化 slug
+
+## [2026-05-03] distill ai-should-help-us-produce-better-code — 翻译并提炼 Simon Willison 关于用 AI agent 提升代码质量的文章

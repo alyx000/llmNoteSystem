@@ -6,7 +6,12 @@
       "Bash(node *)",
       "Bash(git init *)",
       "Bash(git add *)",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "Bash(claude --version)",
+      "Bash(~/claude-start.sh --version)",
+      "Bash(git -C /Users/alyx/note log --oneline -10)",
+      "Bash(git *)",
+      "Bash(ln -s CLAUDE.md /Users/alyx/note/AGENTS.md)"
     ]
   }
 }
