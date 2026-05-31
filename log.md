@@ -26,3 +26,11 @@
 ## [2026-05-03] rename 2026-05-03-200332-article→ai-should-help-us-produce-better-code — 将 Simon Willison 文章剪藏 source 改为语义化 slug
 
 ## [2026-05-03] distill ai-should-help-us-produce-better-code — 翻译并提炼 Simon Willison 关于用 AI agent 提升代码质量的文章
+
+## [2026-05-30] rename 2026-05-30-154829-article→building-self-improving-tax-agents-with-codex — 将 OpenAI Codex 税务 agent 文章剪藏 source 改为语义化 slug
+
+## [2026-05-30] distill building-self-improving-tax-agents-with-codex — 提炼 OpenAI/Thrive Tax AI 如何用生产 trace、专家反馈和 Codex eval 循环构建自我改进 agent
+
+## [2026-05-31] rename 2026-05-31-184729-article→how-to-eval-ai-agents-2026-guide — 将 Ben Hylak agent eval 指南剪藏 source 改为语义化 slug
+
+## [2026-05-31] distill how-to-eval-ai-agents-2026-guide — 提炼 Ben Hylak 关于 agent eval 应从真实失败、代码感知测试和生产监控中持续抬高下限的指南
