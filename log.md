@@ -34,3 +34,9 @@
 ## [2026-05-31] rename 2026-05-31-184729-article→how-to-eval-ai-agents-2026-guide — 将 Ben Hylak agent eval 指南剪藏 source 改为语义化 slug
 
 ## [2026-05-31] distill how-to-eval-ai-agents-2026-guide — 提炼 Ben Hylak 关于 agent eval 应从真实失败、代码感知测试和生产监控中持续抬高下限的指南
+
+## [2026-06-20] rename 2026-06-20-110648-article→ai-productivity-depreciating-asset — 将鸭哥文章剪藏 source 改为语义化 slug
+
+## [2026-06-20] distill ai-productivity-depreciating-asset — 提炼鸭哥关于 AI 降低纯执行溢价、个人价值需转向判断和边界定义的文章
+
+## [2026-06-20] distill ai-productivity-depreciating-asset — 补充 AI 在"该不该做"中的证据构造、红队攻击、条件澄清和决策留痕边界
